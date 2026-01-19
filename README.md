@@ -1,6 +1,6 @@
 # The Web3Approved initiative
 
-Practise what you preach, host your website on an unstoppable Web3 hosting, powered by IPFS. 
+Practise what yvvou preach, host your website on an unstoppable Web3 hosting, powered by IPFS. 
 
 Web3Approved represents an initiative aimed to promote the decentralization of operations within the Web3 ecosystem. We believe decentralized hosting is a crucial first step on the journey to the wider adoption of Web3 technologies. To jumpstart the movement, our initiative offers IPFS hosting services for projects to host their websites - completely free of charge.
 
